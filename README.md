@@ -2,7 +2,7 @@
 
 ## Development
 
-### Install Dependencies
+### Run
 
 ```bash
 solcjs --abi TestToken.sol
